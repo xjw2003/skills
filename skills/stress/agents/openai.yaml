@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stress"
+  short_description: "Turn prompts into high-rigor, reviewable tasks"
+  default_prompt: "Use $stress to rewrite this prompt with competitor-watching pressure and the best task-specific template."

@@ -1,0 +1,7 @@
+interface:
+  display_name: "Stress"
+  short_description: "Rewrite prompts with calibrated pressure and stronger quality bars."
+  default_prompt: "Use $stress to rewrite this prompt for higher rigor, defensibility, and execution quality."
+
+policy:
+  allow_implicit_invocation: false
